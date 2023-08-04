@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaume8j18
 - 👀 I’m interested in web3 developement
-- 🌱 I’m currently learning solidity with forge watching the Patrick Collins course
+- 🌱 I’m currently learning solidity with foundry watching the Patrick Collins course
 - 💞️ I’m looking to collaborate on anything related to web3
 - 📫 How to reach me: Twitter: @JaumeTrenchs
 
